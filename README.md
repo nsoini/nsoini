@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nea</h1>
+<h3 align="center">I'm an aspiring software developer and second-year Business Information Technology student, specializing in Full Stack development with a minor in database design and administration.</h3>
+
+- 🌱 I’m currently learning **Devops with Docker and Testing with jest and Robot Framework**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neasoini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neasoini" height="30" width="40" /></a>
